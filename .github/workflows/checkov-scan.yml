@@ -2,7 +2,9 @@ name: Checkov Scan
 
 on:
   pull_request:
-
+  push:
+     branches: 
+        - main
 jobs:
   checkov:
     runs-on: ubuntu-latest
