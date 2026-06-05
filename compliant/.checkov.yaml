@@ -13,3 +13,4 @@ check:
   - CKV_AWS_24
   - CKV_AWS_25
   - CKV_AWS_277
+  - CUSTOM_AWS_TAGS_001
